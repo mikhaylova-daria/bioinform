@@ -1,0 +1,1 @@
+[{'edge_pattern': 'v1_v0', 'edge': ('1..AZ.A.6147.|1..AZ.G.6099.,1..AZ.C.6129.', '1..AZ.A.6149.|1..AZ.U.6100.,1..AZ.G.6128.'), 'links': ['stem_1..AZ.G.6099._1..AZ.U.6100.', 'stem_1..AZ.C.6129._1..AZ.G.6128.', 'neighbor_1..AZ.G.6099._1..AZ.U.6100.', 'neighbor_1..AZ.C.6129._1..AZ.G.6128.'], 'type_pattern': ['nsLL', 'nsRR']}]
