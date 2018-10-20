@@ -1,0 +1,1 @@
+[{'edge_pattern': 'v0_v3', 'edge': ('1..R.A.53.|1..R.C.25.,1..R.G.52.', '1..R.A.55.|1..R.G.26.,1..R.C.51.'), 'links': ['stack_1..R.A.53._1..R.A.55.', 'stem_1..R.C.25._1..R.G.26.', 'stem_1..R.C.51._1..R.G.52.', 'neighbor_1..R.C.25._1..R.G.26.', 'neighbor_1..R.C.51._1..R.G.52.'], 'type_pattern': ['sAA', 'nsLL', 'nsRR']}]

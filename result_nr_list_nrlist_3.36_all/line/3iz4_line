@@ -1,0 +1,2 @@
+[{'edge_pattern': 'v0_v1', 'edge': ('1..A.A.253.|1..A.G.223.,1..A.U.236.', '1..A.A.254.|1..A.C.224.,1..A.G.235.'), 'links': ['stem_1..A.C.224._1..A.G.223.', 'stem_1..A.G.235._1..A.U.236.', 'neighbor_1..A.C.224._1..A.G.223.', 'neighbor_1..A.G.235._1..A.U.236.', 'neighbor_1..A.A.253._1..A.A.254.'], 'type_pattern': ['nAA', 'nsLL', 'nsRR']}]
+[{'edge_pattern': 'v3_v4', 'edge': ('1..A.A.306.|1..A.G.274.,1..A.C.287.', '1..A.A.307.|1..A.G.276.,1..A.C.285.'), 'links': ['neighbor_1..A.A.306._1..A.A.307.'], 'type_pattern': ['nAA']}]
